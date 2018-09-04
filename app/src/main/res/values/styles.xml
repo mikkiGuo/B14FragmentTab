@@ -1,0 +1,13 @@
+<resources>
+
+    <!--what's the difference between action bar and tool bar? action bar always in the top,
+    toolbar can be anywhere. we can have only one action bar, but we can have many toolbars. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#f604</item>
+        <item name="colorPrimaryDark">#0f0</item>
+        <item name="colorAccent">#f890</item>
+    </style>
+
+</resources>
